@@ -26,7 +26,7 @@ See the `LICENSE` file for details.
 | Repository | Purpose |
 |------------|---------|
 | **[hyatlas-game](https://github.com/Hyatlas/hyatlas-game)** | Unity project (client + server); core gameplay and engine |
-| **[hyatlas-game](https://github.com/Hyatlas/hyatlas-game)** | Bootstrap installer, auto-patcher, update logic |
+| **[hyatlas-launcher](https://github.com/Hyatlas/hyatlas-launcher)** | Bootstrap installer, auto-patcher, update logic |
 | **hyatlas-modkit** | SDK & APIs for building mods and plugins |
 | **[hyatlas-mod-examples](https://github.com/Hyatlas/hyatlas-mod-examples)** | Sample mods, smoke tests, CI templates |
 | **[hyatlas-server-toolkit](https://github.com/Hyatlas/hyatlas-server-toolkit)** | CLI to package, sign, and publish self-hosted servers |
